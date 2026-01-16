@@ -1,0 +1,25 @@
+LINUX SECURITY COMMANDS
+
+# User and permission checks
+whoami
+id
+ls -l
+
+# Change permissions
+chmod 755 file.txt
+chmod 644 file.txt
+
+# Change ownership
+chown user:user file.txt
+
+# Firewall (UFW)
+sudo ufw enable
+sudo ufw status
+sudo ufw allow ssh
+sudo ufw deny 23
+
+# Services
+ps aux
+systemctl list-units --type=service
+sudo systemctl stop bluetooth
+sudo systemctl disable bluetooth
