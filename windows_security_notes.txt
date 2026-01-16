@@ -1,0 +1,8 @@
+WINDOWS OS SECURITY NOTES
+
+- Use standard user accounts for daily work
+- Enable Windows Defender real-time protection
+- Enable Windows Firewall for all networks
+- Disable unnecessary startup applications
+- Regularly update Windows OS
+- Monitor processes using Task Manager
