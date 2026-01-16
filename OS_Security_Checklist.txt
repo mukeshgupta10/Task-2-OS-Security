@@ -1,0 +1,11 @@
+OS SECURITY CHECKLIST
+
+[✔] Firewall enabled
+[✔] Antivirus active
+[✔] Strong passwords configured
+[✔] Least privilege principle applied
+[✔] Unnecessary services disabled
+[✔] System regularly updated
+[✔] Secure file permissions
+[✔] Admin access restricted
+[✔] Logs monitored
